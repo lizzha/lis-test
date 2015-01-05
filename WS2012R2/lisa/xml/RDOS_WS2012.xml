@@ -75,6 +75,7 @@
 			<files>remote-scripts\ica\LIS_verifyHyperVIC.sh</files>
 			<testparams>
 				<param>TC_COVERED=BVT-31</param>
+				<param>HYPERV_MODULES=MODULE_NAMES</param>
 			</testparams>
 			<timeout>600</timeout>
 			<OnError>Continue</OnError>
